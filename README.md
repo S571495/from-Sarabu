@@ -36,3 +36,15 @@ This table gives the information of Taylor Swift songs. She has an extensive dis
 > Let your life lightly dance on the edges of Time like dew on the tip of a leaf.
 > The butterfly counts not months but moments, and has time enough.
 *Rabindranath Tagore*
+
+*************************
+# Code Fencing
+
+The below code snippet in java script is used to get the current time 
+
+```
+    const date = new Date()
+   const currentTime =  `${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}`
+```
+
+[https://code.pieces.app/collections/javascript](link to code snippet)
