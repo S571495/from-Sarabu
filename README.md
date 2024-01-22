@@ -47,4 +47,4 @@ The below code snippet in java script is used to get the current time
    const currentTime =  `${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}`
 ```
 
-[link to code snippet] (https://code.pieces.app/collections/javascript)
+[link to code snippet](https://code.pieces.app/collections/javascript)
