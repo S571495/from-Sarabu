@@ -15,4 +15,4 @@ Bawarchi is known for its **authentic flavours** and diverse menu. The warm and 
 * Movie Theatre
 
 The below one is the link for my media
-[MyMedia](MyMedia.md)
+[MyMedia](MyMedia.md) 
