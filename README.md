@@ -28,3 +28,11 @@ This table gives the information of Taylor Swift songs. She has an extensive dis
 |Blank Space|Known for its clever lyrics and satirical take on media portrayals of Swift's love life, "Blank Space" is a pop masterpiece.| Taylor Swift|
 |Shake It Off|As an upbeat and empowering pop anthem, "Shake It Off" is impossible not to dance to.|Taylor Swift|
 |Delicate|This track from the "Reputation" album showcases a more vulnerable side of Swift.|Taylor Swift|
+
+
+************************
+# Favourite quotes
+
+> Let your life lightly dance on the edges of Time like dew on the tip of a leaf.
+> The butterfly counts not months but moments, and has time enough.
+*Rabindranath Tagore*
