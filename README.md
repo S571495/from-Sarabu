@@ -9,3 +9,7 @@ Bawarchi is known for its **authentic flavours** and diverse menu. The warm and 
 1. Biryani 
 2. Panneer butter masala
 3. Butter naan
+
+* Zoo
+* Mall
+* Movie Theatre
